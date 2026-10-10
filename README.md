@@ -19,7 +19,7 @@ Python öğrenirken yazdığım küçük konsol uygulamaları. Her proje kendi k
 Bilgisayarında [Python 3](https://www.python.org/downloads/) kurulu olmalı. Ek bir kütüphane gerekmez.
 
 ```bash
-git clone https://github.com/AdemDen1z/python-projeleri.git
+git clone https://github.com/Adem-Deniz/python-projeleri.git
 cd python-projeleri
 python hesap-makinesi/hesap_makinesi.py
 ```
