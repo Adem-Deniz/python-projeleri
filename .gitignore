@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Programların çalışırken oluşturduğu veri dosyaları
+calisanlar.txt
+ikramiyeler.txt
+
+# Editör ve işletim sistemi dosyaları
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
